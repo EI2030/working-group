@@ -1,6 +1,6 @@
 Template for EI2030 Working Groups
 =====================
-This repository serves as a template for EI2030 Working Groups. This repository contains templates for **agendas**, **notes** and a **wiki**.
+This repository serves as a template for EI-2030 Working Groups. This repository contains templates for **agendas**, **notes** and a **wiki**.
 
 All meetings occur via video conference. Check the [`agendas/`](./agendas) for the exact date and time of upcoming meetings.
 
@@ -8,11 +8,15 @@ All meetings occur via video conference. Check the [`agendas/`](./agendas) for t
 
 ## Discourse
 
+EI-2030 maintains a [Discourse](https://forum.ei2030.org/) forum and has a Working Groups section. Each working group, upon approval, will have a topic in Discourse to post updates on the progress made and a channel created in Discourse.
+
 ## Discord
 
-EI2030 maintains a [Discord](https://discord.com/invite/nnxKnxh) for communication and collaboration, which is open for anyone to join. Once you join [Discord](https://discord.com/invite/nnxKnxh), you can participate in any public channels.
+EI-2030 maintains a [Discord](https://discord.com/invite/nnxKnxh) for communication and collaboration, which is open for anyone to join. Once you join [Discord](https://discord.com/invite/nnxKnxh), you can participate in any public channels.
 
 ## Calendars
+
+TBD
 
 # Participation guidelines
 
