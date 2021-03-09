@@ -7,7 +7,7 @@
 
 Name          |               | Location
 ------------- | ------------- | -------------
-* John Smith  |               | Menlo Park, CA
+John Smith*   |               | Menlo Park, CA
 
 <small>\*: willing to take notes</small>
 
