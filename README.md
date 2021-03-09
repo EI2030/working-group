@@ -1,10 +1,29 @@
 Template for EI2030 Working Groups
 =====================
+**Status:**
+
+**Name:** 
+
+**Objective:** 
+
+**Timeline:** 
+
+**Members:** 
+
+**Contact:** 
+
+**URL:**
+
+**Hardware:**
+
+**Looking for:**
+
+**Items:**
+
+# Collaboration Tools
 This repository serves as a template for EI-2030 Working Groups. This repository contains templates for **agendas**, **notes** and a **wiki**.
 
 All meetings occur via video conference. Check the [`agendas/`](./agendas) for the exact date and time of upcoming meetings.
-
-# Collaboration Tools
 
 ## Discourse
 
