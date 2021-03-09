@@ -8,7 +8,7 @@ All meetings occur via video conference. Check the [`agendas/`](./agendas) for t
 
 ## Discourse
 
-EI-2030 maintains a [Discourse](https://forum.ei2030.org/) forum and has a Working Groups section. Each working group, upon approval, will have a topic in Discourse to post updates on the progress made and a channel created in Discourse.
+EI-2030 maintains a [Discourse](https://forum.ei2030.org/) forum and has a [Working Groups](https://forum.ei2030.org/c/working-groups/26) section. Each working group, upon approval, will have a topic in Discourse to post updates on the progress made and a channel created in Discourse.
 
 ## Discord
 
