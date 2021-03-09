@@ -1,4 +1,4 @@
-# EI2030 Working Groups Meeting #1
+# Meeting #1
 
 - **Date**:
 - **Time**:

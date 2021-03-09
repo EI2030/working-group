@@ -1,10 +1,18 @@
-EI2030 Working Group
+Template for EI2030 Working Groups
 =====================
-This repository holds **agendas** and **notes** for all meetings past and
-upcoming. Anyone may edit an upcoming event's agenda to *attend* or *propose
-an agenda item*.
+This repository serves as a template for EI2030 Working Groups. This repository contains templates for **agendas**, **notes** and a *wiki*.
 
 All meetings occur via video conference. Check the [`agendas/`](./agendas) for the exact date and time of upcoming meetings.
+
+# Collaboration Tools
+
+## Discourse
+
+## Discord
+
+EI2030 maintains a [Discord](https://discord.com/invite/nnxKnxh) for communication and collaboration, which is open for anyone to join. Once you join [Discord](https://discord.com/invite/nnxKnxh), you can participate in any public channels.
+
+## Calendars
 
 # Participation guidelines
 
