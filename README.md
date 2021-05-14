@@ -14,7 +14,7 @@ own section on the working group site.
 
 blog/
 Directory for time based updates. Updates that will be aggregated to the 
-main website in reverse chronological order and within their own section on the site.
+main and working group website in reverse chronological order.
 
 
 static/
