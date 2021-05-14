@@ -8,13 +8,13 @@ Directory of markdown files that serve as a website for the working group.
 
 
 agenda/
-Directory for past and future agendas found within 
-their own section on the working group site. YYYY-MM-DD.md.
+Directory for past and future agendas found within their
+own section on the working group site.
 
 
 blog/
-Directory for time based updates. Updates that will be aggregated to 
-the main website in reverse chronological order and within their own section on the site.
+Directory for time based updates. Updates that will be aggregated to the 
+main website in reverse chronological order and within their own section on the site.
 
 
 static/
