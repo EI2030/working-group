@@ -20,9 +20,4 @@ John Smith*   |               | Menlo Park, CA
 5. Discuss upcoming meeting schedule (5m)
 6. Meta: How has this meeting worked today? (10m)
 
-## Agenda and Attendee guidelines
-
-- To cover everything, discussion will be time-constrained per topic.
-- Topics that require less discussion should be covered first.
-- To respect meeting size, attendees should be relevant to the agenda.
-- Read the [participation guidelines](../README.md#participation-guidelines).
+## Notes
